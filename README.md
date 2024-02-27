@@ -1,7 +1,7 @@
 # ChopChop 🐰
 | Logo1 | logo2 | 
 | ------- | ------- | 
-![logo](https://github.com/AlphaxHotelxMikexEchoxDelta/ChopChop/assets/95902084/f8d24463-e010-4227-b5a5-19d1a651425e)</td> |
+![logo](https://github.com/AlphaxHotelxMikexEchoxDelta/ChopChop/assets/95902084/f8d24463-e010-4227-b5a5-19d1a651425e)</td> 
 ![logo2]([https://github.com/AlphaxHotelxMikexEchoxDelta/ChopChop/assets/95902084/8a1d3204-b366-46cc-bb8f-d89fd1071d4a](https://github.com/nzrdnolwenn/ChopChop/blob/main/Logo2.png))</td> | 
 
 
