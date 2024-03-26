@@ -10,6 +10,6 @@ ChopChop est une application de livraison de médicaments à la demande qui perm
 
 # Site
 https://apex.oracle.com/pls/apex/r/chopchop_db/chop-chop106091/
-[![Watch the video]([https://github.com/nzrdnolwenn/ChopChop](https://github.com/nzrdnolwenn/ChopChop)
+[![Watch the video]([https://github.com/nzrdnolwenn/ChopChop]([https://github.com/nzrdnolwenn/ChopChop](https://youtu.be/vt5fpE0bzSY))
 
 https://github.com/nzrdnolwenn/ChopChop
